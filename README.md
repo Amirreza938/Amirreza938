@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on: **Interactive booking apps and AI-powered cloud solutions**
 
-- 🌱 I’m currently learning: **Next.js, TypeScript, and cloud resource optimization using DLX**
+- 🌱 I’m currently learning: **Next.js, TypeScript, and other front related frameworks**
 
 - 👯 I’m looking to collaborate on: **Open-source frontend projects and research-based solutions**
 
 - 💬 Ask me about: **JavaScript, React, Ubuntu setup, Git, and system programming (C/ARM)**
 
-- 📫 How to reach me: **amirreza.asgharzadeh@gmail.com**
+- 📫 How to reach me: **amirrezaasgharzadeh938@gmail.com**
 
 - ⚡ Fun fact: I enjoy solving hard problems with creative code — even in assembly!
 
@@ -54,7 +54,7 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="mailto:amirreza.asgharzadeh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINK-HERE"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:amirrezaasgharzadeh938@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/Amirreza Asgharzadeh"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
 </p>
 
