@@ -43,6 +43,12 @@
 
 ---
 
+### 🌐 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza938&layout=compact&theme=radical" />
+</p>
+---
+
 ### 📌 Pinned Projects
 <a href="https://github.com/Amirreza938/dictionary-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amirreza938&repo=dictionary-app&theme=radical" />
