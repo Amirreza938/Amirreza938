@@ -1,16 +1,60 @@
-## Hi there 👋
+<!-- Profile README for Amirreza938 -->
 
-<!--
-**Amirreza938/Amirreza938** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Amirreza</h1>
+<h3 align="center">A passionate frontend developer and tech enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amirreza938&label=Profile%20views&color=0e75b6&style=flat" alt="amirreza938" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: **Interactive booking apps and AI-powered cloud solutions**
+
+- 🌱 I’m currently learning: **Next.js, TypeScript, and cloud resource optimization using DLX**
+
+- 👯 I’m looking to collaborate on: **Open-source frontend projects and research-based solutions**
+
+- 💬 Ask me about: **JavaScript, React, Ubuntu setup, Git, and system programming (C/ARM)**
+
+- 📫 How to reach me: **amirreza.asgharzadeh@gmail.com**
+
+- ⚡ Fun fact: I enjoy solving hard problems with creative code — even in assembly!
+
+---
+
+### 🛠️ Tech Stack
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss)
+![C](https://img.shields.io/badge/-C-00599C?logo=c)
+![ARM Assembly](https://img.shields.io/badge/-ARM%20Assembly-3E3E3E)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirreza938&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirreza938&theme=radical" width="48%" />
+</p>
+
+---
+
+### 📌 Pinned Projects
+<a href="https://github.com/Amirreza938/dictionary-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amirreza938&repo=dictionary-app&theme=radical" />
+</a>
+
+<!-- Add more pinned projects if you'd like -->
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="mailto:amirreza.asgharzadeh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINK-HERE"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+</p>
+
