@@ -48,6 +48,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amirreza938&repo=dictionary-app&theme=radical" />
 </a>
 
+<a href="https://github.com/Amirreza938/OS_PROJECT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amirreza938&repo=OS_PROJECT&theme=radical" />
+</a>
+
 <!-- Add more pinned projects if you'd like -->
 
 ---
