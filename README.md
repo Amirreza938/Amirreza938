@@ -1,7 +1,11 @@
 <!-- Profile README for Amirreza938 -->
-
 <h1 align="center">Hi 👋, I'm Amirreza</h1>
 <h3 align="center">A passionate frontend developer and tech enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amirreza938&label=Profile%20views&color=0e75b6&style=flat" alt="amirreza938" />
