@@ -11,17 +11,19 @@
   <img src="https://komarev.com/ghpvc/?username=amirreza938&label=Profile%20views&color=0e75b6&style=flat" alt="amirreza938" />
 </p>
 
-- 🔭 I’m currently working on: **Interactive booking apps and AI-powered cloud solutions**
+-  I’m currently working on: **Interactive booking apps and AI-powered cloud solutions**
 
-- 🌱 I’m currently learning: **Next.js, TypeScript, and other front related frameworks**
+-  I’m currently learning: **Next.js, TypeScript, and other front related frameworks**
 
-- 👯 I’m looking to collaborate on: **Open-source frontend projects and research-based solutions**
+-  I’m looking to collaborate on: **Open-source frontend projects and research-based solutions**
 
-- 💬 Ask me about: **JavaScript, React, Ubuntu setup, Git, and system programming (C/ARM)**
+-  Ask me about: **JavaScript, React, Ubuntu setup, Git, and system programming (C/ARM)**
 
-- 📫 How to reach me: **amirrezaasgharzadeh938@gmail.com**
+-  How to reach me: **amirrezaasgharzadeh938@gmail.com**
 
-- ⚡ Fun fact: I enjoy solving hard problems with creative code — even in assembly!
+-  Fun fact: I enjoy solving hard problems with creative code — even in assembly!
+
+-  My website : [https://amirreza938.github.io/me/](https://amirreza938.github.io/me/)
 
 ---
 
