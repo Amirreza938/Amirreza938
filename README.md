@@ -1,5 +1,5 @@
 <!-- Profile README for Amirreza938 -->
-<h1 align="center">Hi 👋, I'm Amirreza</h1>
+<h1 align="center">Hi , I'm Amirreza</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="center">
@@ -64,6 +64,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amirreza938&repo=OS_PROJECT&theme=radical" />
 </a>
 
+<a href="https://github.com/Amirreza938/Kandan-s-Algorithm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amirreza938&repo=Kandan-s-Algorithm&theme=radical" />
+</a>
 <!-- Add more pinned projects if you'd like -->
 
 ---
