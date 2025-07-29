@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -49,13 +49,13 @@
 
 ---
 
-### 🌐 Most Used Languages
+###  Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza938&layout=compact&theme=radical" />
 </p>
 ---
 
-### 📌 Pinned Projects
+###  Pinned Projects
 <a href="https://github.com/Amirreza938/dictionary-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amirreza938&repo=dictionary-app&theme=radical" />
 </a>
@@ -71,7 +71,7 @@
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 <p align="left">
   <a href="mailto:amirrezaasgharzadeh938@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/Amirreza Asgharzadeh"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
